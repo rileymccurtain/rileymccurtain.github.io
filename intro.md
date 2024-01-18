@@ -6,6 +6,8 @@ title: "How did I come to choose MIS as a major?"
 date: 2024-01-18
 published: true
 labels:
+  - MIS
+  - Introduction
 
 ---
 
