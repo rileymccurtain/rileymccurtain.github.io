@@ -12,7 +12,7 @@
       { "network": "github", "username": "rileymccurtain", "url": "http://github.com/rileymccurtain" },
       { "network": "linkedin", "username": "rileymccurtain", "url": "http://linkedin.com/in/rileymccurtain" },
       { "network": "twitter", "username": "rileymccurtain", "url": "http://twitter.com/rileymccurtain" },
-      { "network": "instagram", "username": "rileymccurtain1", "url": "http://instagram.com/rileymccurtain" }
+      { "network": "instagram", "username": "rileymccurtain", "url": "http://instagram.com/rileymccurtain" }
     ]
   },
   "interests": [
@@ -24,17 +24,17 @@
   "skills": [
     {
       "name": "",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "" ]
     },
     {
       "name": "",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "MIS (expected Spring, 2025)",
+      "area": "Management Information Systems (expected Spring, 2025)",
       "studyType": "BBA",
       "startDate": "2021-08-23",
       "endDate": "Present",
