@@ -10,9 +10,6 @@
     "location": { "address": "", "postalCode": "96815", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "rileymccurtain", "url": "http://github.com/rileymccurtain" },
-      { "network": "linkedin", "username": "rileymccurtain", "url": "http://linkedin.com/in/rileymccurtain" },
-      { "network": "twitter", "username": "rileymccurtain", "url": "http://twitter.com/rileymccurtain" },
-      { "network": "instagram", "username": "rileymccurtain", "url": "http://instagram.com/rileymccurtain" }
     ]
   },
   "interests": [
